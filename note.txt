@@ -1,0 +1,3 @@
+npm install @truffle/hdwallet-provider
+
+truffle migrate --network ropsten
